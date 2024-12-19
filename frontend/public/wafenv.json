@@ -1,5 +1,5 @@
 {
   "JSAPI_URL": "https://48690f5ffb03.eu-west-3.captcha-sdk.awswaf.com/48690f5ffb03/jsapi.js",
-  "CAPTCHA_API_KEY": "YOUR_KEY"
+  "CAPTCHA_API_KEY": "API_KEY"
  
 }
